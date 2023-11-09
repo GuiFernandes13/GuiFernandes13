@@ -8,7 +8,7 @@
 - 📧 E-mail para contato: guilherme.fernandes.bernado@escola.pr.gov.br
 - 🖥️ Estou aprendendo e trabalhando em um projeto de HTML.
 - 🦅 Corinthiano Fanático... Beijos do Reinato Augusto!!
-- Clique para acessar o .[Alura](https://www.alura.com.br/).
+- Clique para acessar o [Alura](https://www.alura.com.br/)
   
 ![](https://media.tenor.com/9yy0MfToKfMAAAAd/renato-augusto-ra8.gif)
 
